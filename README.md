@@ -30,7 +30,7 @@ _NOTE: Top languages are all about a metric by GitHub itself, which basically in
 
 ### 📫 How to reach me:
 
-[LinkedIn <img height="20" width="20" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" alt="linkedin"/>](https://www.linkedin.com/in/webstacklearner/)
+[LinkedIn <img height="20" width="20" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" alt="linkedin"/>](https://www.linkedin.com/in/borhan-dev/)
 **|**
 [Twitter <img height="20" width="20" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" alt="twitter"/>](https://twitter.com/Web-Stack-Learner)
 **|**
