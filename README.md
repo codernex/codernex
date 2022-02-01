@@ -34,5 +34,5 @@ _NOTE: Top languages are all about a metric by GitHub itself, which basically in
 **|**
 [Twitter <img height="20" width="20" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" alt="twitter"/>](https://twitter.com/Web-Stack-Learner)
 **|**
-[Stack Overflow <img height="20" width="20" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/stackoverflow.svg" alt="stackoverflow"/>](https://stackoverflow.com/users/8407666/Web-Stack-Learner)
+[Stack Overflow <img height="20" width="20" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/stackoverflow.svg" alt="stackoverflow"/>](https://stackoverflow.com/users/17116236/borhan-uddin)
 **|**
