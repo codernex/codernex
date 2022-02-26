@@ -24,15 +24,32 @@ _NOTE: Top languages are all about a metric by GitHub itself, which basically in
 <code>
     <img height="32" src="https://raw.githubusercontent.com/github/explore/master/topics/redux/redux.png">
 </code>
-
+<code>
+    <img height="32" src="https://th.bing.com/th/id/R.8587dd0647ca82fb4ca0372a93f2e358?rik=524TKOYxUhzDIQ&pid=ImgRaw&r=0">
+</code>
+<code>
+    <img height="32" src="https://www.ticarte.com/sites/su/users/7/teaser/git-logo.png">
+</code>
 
 ---
 
 ### 📫 How to reach me:
 
-[LinkedIn <img height="20" width="20" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" alt="linkedin"/>](https://www.linkedin.com/in/borhan-dev/)
+<code>
+<a href="https://www.linkedin.com/in/borhan-dev/" target="_blank">
+<img height="20" width="20" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" alt="linkedin"/>
+</a>
+</code>
 **|**
-[Twitter <img height="20" width="20" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" alt="twitter"/>](https://twitter.com/Web-Stack-Learner)
+<code>
+<a href="https://twitter.com/Web-Stack-Learner" target="_blank">
+<img height="20" width="20" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" alt="twitter"/>
+</a>
+</code>
 **|**
-[Stack Overflow <img height="20" width="20" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/stackoverflow.svg" alt="stackoverflow"/>](https://stackoverflow.com/users/17116236/borhan-uddin)
+<code>
+<a href="https://stackoverflow.com/users/17116236/borhan-uddin" target="_blank">
+<img height="20" width="20" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/stackoverflow.svg" alt="stackoverflow"/>
+</a>
+</code>
 **|**
