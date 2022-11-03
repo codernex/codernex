@@ -1,12 +1,12 @@
 <div style="padding: 20px">
 <div style="display: flex;justify-content: space-between">
-<div style="flex: 0.8">
+<div >
 <span>Hi, I am</span>
 <h2>Borhan Uddin</h2>
 <span>Dedicated self-taught developer, passionate about programming challenges and not a student of computer science.</span>
 </div>
-<div style="width: 140px;overflow: hidden;background: inherit;flex:0.2;">
-<img style="width: 100%" src="https://avatars.githubusercontent.com/u/89929036?s=400&u=65acb68f6120bd6962e774ba154c9013a470fc7a&v=4" alt="">
+<div style="width: 140px">
+<img style="width: 140px" src="https://avatars.githubusercontent.com/u/89929036?s=400&u=65acb68f6120bd6962e774ba154c9013a470fc7a&v=4" alt="">
 </div>
 </div>
 
