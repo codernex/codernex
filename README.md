@@ -1,55 +1,36 @@
-<div align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=borhan-dev&show_icons=true&count_private=true&theme=nightowl" />
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=borhan-dev&theme=nightowl" />
-    <img src="https://github-readme-streak-stats.herokuapp.com?user=borhan-dev&theme=nightowl" />
+<div style="padding: 20px">
+<div style="display: flex;justify-content: space-between">
+<div style="flex: 0.8">
+<span>Hi, I am</span>
+<h2>Borhan Uddin</h2>
+<span>Dedicated self-taught developer, passionate about programming challenges and not a student of computer science.</span>
+</div>
+<div style="width: 140px;overflow: hidden;background: inherit;flex:0.2;">
+<img style="width: 100%" src="https://avatars.githubusercontent.com/u/89929036?s=400&u=65acb68f6120bd6962e774ba154c9013a470fc7a&v=4" alt="">
+</div>
 </div>
 
-_NOTE: Top languages are all about a metric by GitHub itself, which basically indicates on which languages I have coded the most on GitHub._
+<div>
+<h3>Achievement :</h3>
+<ul>
+<li>Adopted the Agile Development Lifecycle</li>
+<li>Develop the skill of writing proficient code for problem solving</li>
+<li>Achieved proficiency in maintaining and optimizing code</li>
+</ul>
+</div>
 
----
+<div>
+<h3>Tech Stack :</h3>
 
-### 👋 Hi there, I'm Borhan Uddin
+<div style="display: flex;column-gap: 10px;flex-wrap: wrap;background: #fff;row-gap: 10px;padding: 10px">
+<img style="width: 40px;height: 40px;border-radius: 50%" src="https://raw.githubusercontent.com/github/explore/master/topics/javascript/javascript.png"/>
+<img style="width: 40px;height: 40px;border-radius: 50%" src="https://raw.githubusercontent.com/github/explore/master/topics/nodejs/nodejs.png"/>
+<img style="width: 40px;height: 40px;border-radius: 50%" src="https://raw.githubusercontent.com/github/explore/master/topics/react/react.png"/>
+<img style="width: 40px;height: 40px;object-fit:cover;border-radius: 50%" src="https://raw.githubusercontent.com/github/explore/master/topics/redux/redux.png"/>
+<img style="width: 140px;height: 40px;object-fit:contain;" src="https://camo.githubusercontent.com/fafa956c056726380f5abd0160e90fc6a5329fa60f932d09f88c94436f9ed473/68747470733a2f2f74682e62696e672e636f6d2f74682f69642f522e38353837646430363437636138326662346361303337326139336632653335383f72696b3d353234544b4f597855687a444951267069643d496d6752617726723d30"/>
+<img style="width: 140px;height: 40px;object-fit:contain;" src="https://camo.githubusercontent.com/93dd2600c365620058809558e955af905a919448dfa190937b7479eb777fc47a/68747470733a2f2f7777772e746963617274652e636f6d2f73697465732f73752f75736572732f372f7465617365722f6769742d6c6f676f2e706e67"/>
 
-### Technology Stack:
+</div>
+</div>
 
-<code>
-    <img height="32" src="https://raw.githubusercontent.com/github/explore/master/topics/javascript/javascript.png">
-</code>
-<code>
-    <img height="32" src="https://raw.githubusercontent.com/github/explore/master/topics/nodejs/nodejs.png">
-</code>
-<code>
-    <img height="32" src="https://raw.githubusercontent.com/github/explore/master/topics/react/react.png">
-</code>
-<code>
-    <img height="32" src="https://raw.githubusercontent.com/github/explore/master/topics/redux/redux.png">
-</code>
-<code>
-    <img height="32" src="https://th.bing.com/th/id/R.8587dd0647ca82fb4ca0372a93f2e358?rik=524TKOYxUhzDIQ&pid=ImgRaw&r=0">
-</code>
-<code>
-    <img height="32" src="https://www.ticarte.com/sites/su/users/7/teaser/git-logo.png">
-</code>
-
----
-
-### 📫 How to reach me:
-
-<code>
-<a href="https://www.linkedin.com/in/borhan-dev/" target="_blank">
-<img height="20" width="20" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" alt="linkedin"/>
-</a>
-</code>
-**|**
-<code>
-<a href="https://twitter.com/Web-Stack-Learner" target="_blank">
-<img height="20" width="20" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" alt="twitter"/>
-</a>
-</code>
-**|**
-<code>
-<a href="https://stackoverflow.com/users/17116236/borhan-uddin" target="_blank">
-<img height="20" width="20" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/stackoverflow.svg" alt="stackoverflow"/>
-</a>
-</code>
-**|**
+</div>
