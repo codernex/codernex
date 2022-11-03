@@ -20,7 +20,9 @@
 <h3>Tech Stack :</h3>
 
 <div style="display: flex;column-gap: 10px;flex-wrap: wrap;background: #fff;row-gap: 10px;padding: 10px">
+<img style="width: 40px;height: 40px;object-fit: contain" src="https://seeklogo.com/images/J/java-logo-7833D1D21A-seeklogo.com.png"/>
 <img style="width: 40px;height: 40px;border-radius: 50%" src="https://raw.githubusercontent.com/github/explore/master/topics/javascript/javascript.png"/>
+<img style="width: 40px;height: 40px;border-radius: 50%" src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Typescript_logo_2020.svg/1024px-Typescript_logo_2020.svg.png"/>
 <img style="width: 40px;height: 40px;border-radius: 50%" src="https://raw.githubusercontent.com/github/explore/master/topics/nodejs/nodejs.png"/>
 <img style="width: 40px;height: 40px;border-radius: 50%" src="https://raw.githubusercontent.com/github/explore/master/topics/react/react.png"/>
 <img style="width: 40px;height: 40px;object-fit:cover;border-radius: 50%" src="https://raw.githubusercontent.com/github/explore/master/topics/redux/redux.png"/>
