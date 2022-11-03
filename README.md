@@ -1,5 +1,5 @@
 <div style="padding: 20px">
-<div style="display: flex;justify-content: space-between">
+<div style="width: 100%;display: flex;justify-content: space-between">
 <div >
 <span>Hi, I am</span>
 <h2>Borhan Uddin</h2>
