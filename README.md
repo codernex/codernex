@@ -6,7 +6,7 @@
 
 - 🌱 I’m currently learning **Java**
 
-- 👨‍💻 All of my projects are available at [https://borhan-dev.netlify.app/](https://www.azizfalah.com/)
+- 👨‍💻 All of my projects are available at [https://borhan-dev.netlify.app/](https://borhan-dev.netlify.app))
 
 - 💬 Ask me about **React , Node**
 
@@ -16,7 +16,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://borhan-dev.netlify.app/" target="blank"><img align="center" src="https://www.azizfalah.com/favicon.ico" alt="https://borhan-dev.netlify.app" height="30" width="40" /></a>
+<a href="https://borhan-dev.netlify.app/" target="blank"><img align="center" src="https://www.borhan-dev.nelify.app/favicon.ico" alt="https://borhan-dev.netlify.app" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/borhan-uddin" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="borhan-uddin" height="30" width="40" /></a>
 
 <h3 align="left">Languages and Tools:</h3>
