@@ -16,7 +16,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://borhan-dev.netlify.app/" target="blank"><img align="center" src="https://imgcloud.s3.us-east-1.wasabisys.com/TTuB890SiN.png" alt="https://borhan-dev.netlify.app" height="30" width="40" /></a>
+<a href="https://borhan-dev.netlify.app/" target="blank"><img align="center" src="https://imgcloud.s3.us-east-1.wasabisys.com/UEPzjJNumY.jpg" alt="https://borhan-dev.netlify.app" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/borhan-uddin" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="borhan-uddin" height="30" width="40" /></a>
 
 <h3 align="left">Languages and Tools:</h3>
