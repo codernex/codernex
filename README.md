@@ -5,8 +5,6 @@
 
 - 🌱 I’m currently working on a **React Native** Project
 
-- 👨‍💻 All of my projects are available at [https://borhan-dev.netlify.app/](https://borhan-dev.netlify.app))
-
 - 💬 Ask me about **React, Node, Express, Next.js**
 
 - 📫 How to reach me **borhan.dev@gmail.com**
