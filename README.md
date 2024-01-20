@@ -8,7 +8,7 @@
 
 - 👨‍💻 All of my projects are available at [https://borhan-dev.netlify.app/](https://borhan-dev.netlify.app))
 
-- 💬 Ask me about **React , Node**
+- 💬 Ask me about **React, Node, Express, Next.js**
 
 - 📫 How to reach me **borhan.dev@gmail.com**
 
@@ -17,7 +17,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://borhan-dev.netlify.app/" target="blank"><img align="center" src="https://imgcloud.s3.us-east-1.wasabisys.com/UEPzjJNumY.jpg" alt="https://borhan-dev.netlify.app" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/borhan-uddin" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="borhan-uddin" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/codernex" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="borhan-uddin" height="30" width="40" /></a>
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
@@ -64,9 +64,9 @@
   </p>
 
 <p>
-<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=borhan-dev&show_icons=true&locale=en&layout=compact" alt="borhan-dev" />
+<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=codernex&show_icons=true&locale=en&layout=compact" alt="borhan-dev" />
 </p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=borhan-dev&show_icons=true&locale=en" alt="borhan-dev" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=codernex&show_icons=true&locale=en" alt="borhan-dev" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=borhan-dev&" alt="borhan-dev" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=codernex&" alt="borhan-dev" /></p>
