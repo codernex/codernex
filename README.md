@@ -6,7 +6,7 @@
 -  ⚡ Currently learning GO 
 - 🌱 I’m currently working on a **React Native** Project
 
-- 💬 Ask me about **React, Node, Express, Next.js**
+- 💬 Ask me about **React,React Native, Node, Express, Next.js**
 
 - 📫 How to reach me **borhan.dev@gmail.com**
 
