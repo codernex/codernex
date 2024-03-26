@@ -21,7 +21,4 @@
 <p>
 <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=codernex&show_icons=true&locale=en&layout=compact" alt="borhan-dev" />
 </p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=codernex&show_icons=true&locale=en" alt="borhan-dev" /></p>
-
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=codernex&" alt="borhan-dev" /></p>
