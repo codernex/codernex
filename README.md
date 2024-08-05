@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=codernex&label=Profile%20views&color=0e75b6&style=flat" alt="borhan-dev" /> </p>
 
--  ⚡ Currently learning GO 
+-  ⚡ Currently learning Laravel 
 - 🌱 I’m currently working on a **React Native** Project
 
 - 💬 Ask me about **React,React Native, Node, Express, Next.js**
