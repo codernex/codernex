@@ -6,7 +6,7 @@
 -  ⚡ Currently learning Laravel 
 - 🌱 I’m currently working on a **React Native** Project
 
-- 💬 Ask me about **React,React Native, Node, Express, Next.js**
+- 💬 Ask me about **React,React Native, Node, Express, Next.js, Nest.js, PHP, Laravel, GO**
 
 - 📫 How to reach me **borhan.dev@gmail.com**
 
