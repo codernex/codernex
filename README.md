@@ -1,12 +1,12 @@
 <h1 align="center">Hi 👋, I'm Borhan Uddin</h1>
-<h3 align="center">Dedicated self-taught developer, passionate about programming challenges and not a student of computer science.</h3>
+<h3 align="center">Dedicated self-taught developer, passionate about programming challenges.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=codernex&label=Profile%20views&color=0e75b6&style=flat" alt="borhan-dev" /> </p>
 
 -  ⚡ Currently learning Laravel 
 - 🌱 I’m currently working on a **React Native** Project
 
-- 💬 Ask me about **React,React Native, Node, Express, Next.js, Nest.js, PHP, Laravel, GO**
+- 💬 Ask me about **React, React Native, Node, Express, Next.js, Nest.js, GO**
 
 - 📫 How to reach me **borhan.dev@gmail.com**
 
